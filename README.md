@@ -17,6 +17,3 @@ As of now, your options are:
 ## TODOS
 [x] allow multiple arguments for log methods
 [] build up README
-
-## Credits
-The jokes were sourced from <a href="https://github.com/EugeneKay/git-jokes">Git jokes</a> repository.
